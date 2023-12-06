@@ -1,6 +1,0 @@
-module-info.class
-com/crisis/ihm/utils/Mqtt.class
-com/crisis/ihm/HelloApplication.class
-com/crisis/ihm/IHMController.class
-com/crisis/ihm/Esp32DataConnection.class
-com/crisis/ihm/Esp32Data.class
